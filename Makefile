@@ -3,7 +3,7 @@
 # renovate: datasource=github-releases depName=cert-manager/cert-manager
 CERT_MANAGER_VERSION ?= v1.11.0
 # renovate: datasource=github-tags depName=kubernetes-sigs/kustomize
-KUSTOMIZE_VERSION?=v4.5.7
+KUSTOMIZE_VERSION?=v5.0.1
 # renovate: datasource=github-tags depName=helm/helm
 HELM_VERSION ?= v3.11.1
 CHART_VERSION = v0.5.0 # x-release-please-version
